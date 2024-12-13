@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "dev.danny.computacion1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "dev.danny.computacion1"
